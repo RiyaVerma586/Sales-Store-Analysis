@@ -31,7 +31,7 @@ The dataset contains sales records for a global superstore, including:
 ## **Steps to Use**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Saidath/Analysis-of-the-Sales-of-a-Store.git
+   git clone https://github.com/RiyaVerma586/Sales-Store-Analysis.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -66,3 +66,4 @@ The dataset contains sales records for a global superstore, including:
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 
 Take a look at the repository here: [Superstore Sales Dataset Analysis](https://github.com/Saidath/Analysis-of-the-Sales-of-a-Store)
+
